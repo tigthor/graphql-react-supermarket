@@ -3,3 +3,4 @@
 /.autogit
 /node_modules
 /target
+/app/frontend/node_modules
