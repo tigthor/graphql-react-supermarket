@@ -1,4 +1,4 @@
 # GRAPHQL REACT SUPERMARKET
 ## Description
-_This is the supermarket project that is using _ 
+_This is the supermarket project that is using ondate _ 
 
