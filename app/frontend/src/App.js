@@ -52,7 +52,8 @@ function App() {
 						sm={4}
 						xl={4}
 						style={{ miHeight: '100%' }}
-					>
+          >
+          Hello wolrd
 					</Grid>
       <hr />
       {courses.map((course) => {
