@@ -53,8 +53,6 @@ function App() {
 						xl={4}
 						style={{ miHeight: '100%' }}
 					>
-						/** {component === 'signin' && <Paper className={classes.paper} elevation={3}><SignIn changeState={changeComponent} /></Paper>} */
-						// {component === 'signup' && <Paper className={classes.paper} elevation={3}><SignUp changeState={changeComponent} /></Paper>}
 					</Grid>
       <hr />
       {courses.map((course) => {
