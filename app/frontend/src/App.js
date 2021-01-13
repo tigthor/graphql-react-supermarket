@@ -5,7 +5,7 @@ function App() {
   const greetings = 'Hello My People'
   return (
     <div className="App">
-      <h1>My react application</h1>
+      <h1>{greetings}</h1>
     </div>
   );
 }
