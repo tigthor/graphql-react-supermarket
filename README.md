@@ -5,5 +5,6 @@ _This is the supermarket project that is using ondate technologies like React an
 ## How to run this project
 * Install Postgres
 * clone this project by running `git clone {URL of this repo}`
-* Add our environment variables using .env
+* Add our environment variables using .envexamples
+* 
 
