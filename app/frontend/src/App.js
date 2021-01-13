@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-mport {
+import {
 	Grid,
 	Box,
 	Divider,
