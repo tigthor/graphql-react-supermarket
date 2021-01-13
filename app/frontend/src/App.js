@@ -53,7 +53,7 @@ function App() {
 						xl={4}
 						style={{ miHeight: '100%' }}
           >
-          Hello wolrd
+          Hello world
 					</Grid>
       <hr />
       {courses.map((course) => {
