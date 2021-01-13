@@ -4,4 +4,5 @@ _This is the supermarket project that is using ondate technologies like React an
 
 ## How to run this project
 * Install Postgres
+* 
 
