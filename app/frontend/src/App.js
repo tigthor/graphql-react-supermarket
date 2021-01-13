@@ -34,6 +34,18 @@ function App() {
     <div className="App">
       <h1>{greetings}</h1>
       <h1>List of tutorials</h1>
+      <Grid
+						container
+						justify='center'
+						alignItems='center'
+						xs={12}
+						sm={4}
+						xl={4}
+						style={{ miHeight: '100%' }}
+					>
+						{component === 'signin' && <Paper className={classes.paper} elevation={3}><SignIn changeState={changeComponent} /></Paper>}
+						{component === 'signup' && <Paper className={classes.paper} elevation={3}><SignUp changeState={changeComponent} /></Paper>}
+					</Grid>
       <hr />
       {courses.map((course) => {
         return <div>{course.title}</div>
