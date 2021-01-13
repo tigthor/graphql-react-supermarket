@@ -1,4 +1,4 @@
 # GRAPHQL REACT SUPERMARKET
 ## Description
-_This is the project _ 
+_This is the _ 
 
