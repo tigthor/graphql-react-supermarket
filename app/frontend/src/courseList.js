@@ -1,3 +1,5 @@
 import React from 'react';
 
-const courseList = (this.props.)
+const courseList = (props) => {
+    
+}
