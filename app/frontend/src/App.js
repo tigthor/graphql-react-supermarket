@@ -36,7 +36,7 @@ function App() {
       <h1>List of tutorials</h1>
       <hr />
       {courses.map((course) => {
-        return <div></div>
+        return <div>course</div>
       })}
     </div>
   );
