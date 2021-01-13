@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/tigthor/graphql-react-supermarket#readme",
   "dependencies": {
+    "@nezam/graphql-react-express-boilerplate": "^0.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
