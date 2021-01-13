@@ -34,6 +34,8 @@ function App() {
     <div className="App">
       <h1>{greetings}</h1>
       <h1>List of tutorials</h1>
+      <hr />
+      {corse}
     </div>
   );
 }
