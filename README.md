@@ -8,5 +8,5 @@ _This is the supermarket project that is using ondate technologies like React an
 * Add your environment variables using .envexamples
 * run `npm run migrate` to create database migrations and seed some other datas in the database
 * run `npm run startDev` to start backend server.
-* run `npm run start`
+* run `npm run startClient` to start client 
 
