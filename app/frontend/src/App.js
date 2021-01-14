@@ -12,7 +12,7 @@ function App() {
         <Suspense fallback={<Fragment />}>
           <Switch>
             <Route path="/">
-              <Loggin />
+              <Login />
             </Route>
           </Switch>
         </Suspense>
@@ -20,6 +20,5 @@ function App() {
   );
 }
 
-serviceWorker.register();
 
 export default App;
