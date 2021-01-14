@@ -1,7 +1,7 @@
 import React, { Fragment, Suspense, lazy } from "react";
 import { MuiThemeProvider, CssBaseline } from "@material-ui/core";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import login from './components/login/'
+import login from './components/login/L'
 
 
 function App() {
