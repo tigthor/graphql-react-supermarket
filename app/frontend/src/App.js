@@ -7,7 +7,6 @@ import Login from './components/login/Login'
 function App() {
   return (
     <BrowserRouter>
- 
         <CssBaseline />
         <Suspense fallback={<Fragment />}>
           <Switch>
@@ -19,6 +18,5 @@ function App() {
     </BrowserRouter>
   );
 }
-
 
 export default App;
