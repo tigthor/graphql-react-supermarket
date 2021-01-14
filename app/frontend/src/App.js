@@ -11,8 +11,8 @@ function App() {
         <CssBaseline />
         <Suspense fallback={<Fragment />}>
           <Switch>
-            <Route path="/c">
-              <LoggedInComponent />
+            <Route path="/">
+              <Loggin />
             </Route>
           </Switch>
         </Suspense>
