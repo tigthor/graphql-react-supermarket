@@ -29,7 +29,7 @@ class Login extends React.Component {
       this.state.username === "admin@littech.in" &&
       this.state.password === "secret"
     ) {
-      this.props.history.push("/home");
+      this.props.history.push("/");
     } else {
       alert("Incorrect Credntials!");
     }
