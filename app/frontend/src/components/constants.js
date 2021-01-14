@@ -1,1 +1,1 @@
-export const BRAND_NAME =
+export const BRAND_NAME = 'TIGTHOR';
