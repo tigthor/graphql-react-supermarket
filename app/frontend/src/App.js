@@ -9,8 +9,6 @@ function App() {
     <BrowserRouter>
  
         <CssBaseline />
-
-        <Pace color={theme.palette.primary.light} />
         <Suspense fallback={<Fragment />}>
           <Switch>
             <Route path="/c">
